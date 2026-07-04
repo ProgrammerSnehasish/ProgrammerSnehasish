@@ -176,7 +176,7 @@ ISBN: **978-81-69431-66-8**
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -184,8 +184,30 @@ ISBN: **978-81-69431-66-8**
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerSnehasish&theme=tokyonight"/>
 
+</p>
+
+<p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerSnehasish&layout=compact&theme=tokyonight"/>
 
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProgrammerSnehasish&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProgrammerSnehasish&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ProgrammerSnehasish&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProgrammerSnehasish&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ProgrammerSnehasish&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 ---
